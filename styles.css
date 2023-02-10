@@ -1,0 +1,38 @@
+body {
+    font-family: "Montserrat";
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #400E32;
+    color: #F2CD5C;
+    
+}
+
+h1,h2,h3,h5,h6 {
+    font-weight: 700;
+}
+
+.winner-div {
+    margin-bottom: 10%;
+}
+
+.player-div {
+    margin-bottom: 10%;
+}
+
+.dice {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    background-color: #A61F69;
+}
+
+#footer {
+
+    padding: 50px 0px 20px;
+    text-align: center;
+}
+
+.copy-right {
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
